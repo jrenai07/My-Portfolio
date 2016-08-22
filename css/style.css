@@ -10,6 +10,13 @@ body {
     font-weight: 300;
 }
 
+.rule {
+    width: 100%;
+    color: #BD4932;
+    height: 3px;
+    background-color: #BD4932;"
+}
+
 .text-thin {
     font-weight: 100;
 }
