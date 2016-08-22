@@ -4,8 +4,8 @@
 }
 
 body {
-    background-color: #FFFFF9;
-    font-family: 'Lato', sans-serif;
+    background-color: #fffff9;
+    font-family: "Lato", sans-serif;
     color: #105B63;
     font-weight: 300;
 }
@@ -44,6 +44,7 @@ body {
     font-size: 35px;
     margin-bottom: 20px;
 }
+
 a {
     color: white;
 }
@@ -72,11 +73,13 @@ a {
    text-decoration: none;
    vertical-align: middle;
    }
+
 .button:hover {
    border-top-color: #FFD34E;
    background: #FFD34E;
    color: white;
    }
+
 .button:active {
    border-top-color: #1b435e;
    background: #1b435e;
